@@ -6,7 +6,7 @@ h1{
     color:aliceblue;
     /* position: absolute; */
     /* border:2px solid red; */
-    margin-top: 10vh;
+    margin-top: 3vh;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
@@ -21,15 +21,15 @@ h1{
     /* border:3px solid red; */
 }
 
-@media (min-width:768px){
+/* @media (min-width:768px){
     h1{
         margin-top: 3vh;
     }
-}
+} */
 
-@media (min-width:890px){
+@media (min-width:800px){
     #canvas1{
-        width:800px;
-        height: 700px;
+        width:80vh;
+        height: 60vh;
     }
 }
